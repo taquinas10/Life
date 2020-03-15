@@ -10,9 +10,5 @@ Current settings gives a stable population between 100-150.
 
 
 NOTE "IMAGEPATH" TO WHERE YOU HAVE PLACED THE Flushed_Face_Emoji.png and angrySmiley1.png IMAGES OF THE BALLS.
-I used these images for my program:
-https://www.pngfind.com/mpng/oRTwo_flushed-face-emoji-wide-eyed-emoji-png-transparent/
-and 
-https://imgbin.com/png/pZ9Gp7nb/emoji-emoticon-anger-smiley-face-png
-but feel free to use whatever images you want.
+
 """
